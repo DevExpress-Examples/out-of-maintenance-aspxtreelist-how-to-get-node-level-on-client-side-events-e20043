@@ -7,6 +7,9 @@
 * [Default2.aspx.cs](./CS/WebSite/Default2.aspx.cs) (VB: [Default2.aspx.vb](./VB/WebSite/Default2.aspx.vb))
 <!-- default file list end -->
 # ASPxTreeList: How to Get Node Level on Client-Side Events
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e20043/)**
+<!-- run online end -->
 
 
 <p>ASPxTreeList does not provide a method to determine the node level on the client side. This example demonstrates how to use the ASPxTreeList JSProperties to create this functionality.</p>
